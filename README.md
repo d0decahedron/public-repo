@@ -1,1 +1,3 @@
-# public-repo
+# A public repository
+
+(for anything and everything)
